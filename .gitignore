@@ -1,0 +1,17 @@
+# Data and output (generated files)
+data/*
+!data/.gitkeep
+output/*
+!output/.gitkeep
+logs/*
+!logs/.gitkeep
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.env
+
+# OS
+.DS_Store
+Thumbs.db
