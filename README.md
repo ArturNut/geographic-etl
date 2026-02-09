@@ -13,7 +13,7 @@ A practice project demonstrating a full ETL pipeline using:
 
 1. Clone the repo:
    ```bash
-   git clone git@github.com:ArturNut/geographic-etl.git
+   git clone https://github.com/ArturNut/geographic-etl.git
    cd geographic-etl
    ```
 
