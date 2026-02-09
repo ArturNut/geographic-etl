@@ -32,6 +32,7 @@ A practice project demonstrating a full ETL pipeline using:
     ```
 
 4. Result:  
+![image_1](result.png)
      
 ## 🗂️ Project Structure
   * src/ — executable scripts
@@ -40,4 +41,4 @@ A practice project demonstrating a full ETL pipeline using:
   * output/ — final results in CSV/Parquet  
 
 ## 📌 Note
-    This project is designed for learning and portfolio     purposes.
+    This project is designed for learning and portfolio purposes.
